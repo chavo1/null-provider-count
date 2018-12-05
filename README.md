@@ -27,5 +27,5 @@ Plan: 2 to add, 0 to change, 0 to destroy.
 ```
 - Don't forget to destroy the resources
 ```
-terraform destroy
+$ terraform destroy
 ```
